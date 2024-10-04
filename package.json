@@ -1,0 +1,18 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pramod",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "imagemagick": "^0.1.3",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.33.5"
+  }
+}
